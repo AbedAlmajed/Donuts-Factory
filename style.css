@@ -1,0 +1,22 @@
+
+body {
+  scroll-behavior: smooth;
+  background-color: #f8f9fa; 
+  color: #343a40; 
+}
+
+.carousel-item img {
+  max-width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.nav-link:hover {
+  color: #212529 ; 
+  border-bottom: blue solid ;
+}
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+}
