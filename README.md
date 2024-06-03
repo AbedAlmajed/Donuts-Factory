@@ -6,7 +6,7 @@ Welcome to Donuts Delight Website! This project showcases the best donuts in tow
 
 ## Live URL
 
-You can view the live version of the website [here](<insert_live_url_here>).
+You can view the live version of the website [here](https://abedalmajed.github.io/Donuts-Factory/).
 
 ## Features
 
